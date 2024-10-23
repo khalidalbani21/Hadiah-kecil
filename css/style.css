@@ -60,6 +60,11 @@ body{
     margin-bottom: 20px;
 }
 
+button {
+    border: none;
+    border-radius: 20px;
+}
+
 .button a{
     text-decoration: none;
     font-size: 1rem;
@@ -84,6 +89,10 @@ body{
 .button a:active {
     background-color: pink;
     color: black;
+}
+.button a:hover {
+    background-color: cyan;
+    border-radius: 20px;
 }
 }
 
@@ -133,6 +142,11 @@ body{
     margin-bottom: 20px;
 }
 
+button {
+    border: none;
+    border-radius: 20px;
+}
+
 .button a{
     text-decoration: none;
     font-size: 1rem;
@@ -157,6 +171,10 @@ body{
 .button a:active {
     background-color: pink;
     color: black;
+}
+.button a:hover {
+    background-color: cyan;
+    border-radius: 20px;
 }
 }
 /* Versi Desktop */
